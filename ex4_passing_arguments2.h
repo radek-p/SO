@@ -1,0 +1,8 @@
+#ifndef SO_LAB2_ASSEMBLY_EX4_PASSING_ARGUMENTS2_H
+#define SO_LAB2_ASSEMBLY_EX4_PASSING_ARGUMENTS2_H
+
+void foo2(long a, long b, int c, int d);
+
+void bar2();
+
+#endif //SO_LAB2_ASSEMBLY_EX4_PASSING_ARGUMENTS2_H
